@@ -1,0 +1,36 @@
+insert into ccu.producto
+values(1,'Metalica','Lager','Botella',5.0,1500,2000);
+insert into ccu.producto
+values(2,'Metalica','Ambar','Botella',7.0,1500,2000);
+insert into ccu.producto
+values(3,'Metalica','Stout','Botella',9.0,1500,2000);
+insert into ccu.producto
+values(4,'Metalica','Lager','Lata',5.0,1000,1500);
+insert into ccu.producto
+values(5,'Metalica','Ambar','Lata',7.0,1000,1500);
+insert into ccu.producto
+values(6,'Metalica','Stout','Lata',9.0,1000,1500);
+insert into ccu.producto
+values(7,'Esleyer','Lager','Botella',5.0,1500,2000);
+insert into ccu.producto
+values(8,'Esleyer','Ambar','Botella',7.0,1500,2000);
+insert into ccu.producto
+values(9,'Esleyer','Stout','Botella',9.0,1500,2000);
+insert into ccu.producto
+values(10,'Esleyer','Lager','Lata',5.0,1000,1500);
+insert into ccu.producto
+values(11,'Esleyer','Ambar','Lata',7.0,1000,1500);
+insert into ccu.producto
+values(12,'Esleyer','Stout','Lata',9.0,1000,1500);
+insert into ccu.producto
+values(13,'RedHot','Lager','Botella',5.0,1500,2000);
+insert into ccu.producto
+values(14,'RedHot','Ambar','Botella',7.0,1500,2000);
+insert into ccu.producto
+values(15,'RedHot','Stout','Botella',9.0,1500,2000);
+insert into ccu.producto
+values(16,'RedHot','Lager','Lata',5.0,1000,1500);
+insert into ccu.producto
+values(17,'RedHot','Ambar','Lata',7.0,1000,1500);
+insert into ccu.producto
+values(18,'RedHot','Stout','Lata',9.0,1000,1500);
